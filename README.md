@@ -1,5 +1,5 @@
 ﻿## 项目简介
-一个WebApp版的cnode客户端，项目采用react技术栈构建。组件选用的是[Material-UI](http://www.material-ui.com/)，让界面更适合触控操作。
+一个WebApp版的cnode客户端，项目采用react技术栈构建。组件选用的是[Material-UI](http://www.material-ui.com/)。
 - 感谢来自[cnodejs论坛](https://cnodejs.org/)官方提供的api！
 
 ## 功能
@@ -18,6 +18,9 @@
 - 应用`isomorphic-fetch`库代替`XMLHttpRequest`实现网络请求
 - 使用`PostCSS`对CSS进行预处理
 - 通过`CSSModules`处理模块内部的类名
+
+## 预览
+[DEMO](https://arssam.github.io/react-redux-cnode/build/production/index.html)
 
 ## 运行项目
 ```
